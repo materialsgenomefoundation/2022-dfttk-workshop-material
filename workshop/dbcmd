@@ -1,0 +1,5 @@
+use dfttkworkshopDec15-fws
+db.createUser({user: "dfttkworkshopDec15", pwd: "5hyg2EonnvfN", roles: [{role: "dbOwner", db: "dfttkworkshopDec15-fws"}]})
+use dfttkworkshopDec15-results
+db.createUser({user: "dfttkworkshopDec15", pwd: "lmS0hlQEmlc7", roles: [{role: "dbOwner", db: "dfttkworkshopDec15-results"}]})
+db.createUser({user: "dfttkworkshopDec15-ro", pwd: "2ii3Lvvk8olW", roles: [{role: "read", db: "dfttkworkshopDec15-results"}]})

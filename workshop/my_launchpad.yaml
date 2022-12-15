@@ -1,0 +1,9 @@
+host: 146.186.149.69
+port: 27018
+name: dfttkworkshopDec15-fws
+username: dfttkworkshopDec15
+password: 5hyg2EonnvfN
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+wf_user_indices: []
