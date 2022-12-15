@@ -1,0 +1,9 @@
+host: 146.186.149.69
+port: 27018
+name: workshop-Dec15-fws
+username: workshop-Dec15
+password: dPqYuinragNn
+ssl_ca_file: null
+strm_lvl: INFO
+user_indices: []
+wf_user_indices: []

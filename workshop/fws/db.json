@@ -1,0 +1,11 @@
+{
+    "database": "workshop-Dec15-results",
+    "collection": "tasks",
+    "admin_user": "workshop-Dec15",
+    "admin_password": "E6KhWB3pGWmU",
+    "readonly_user": "workshop-Dec15-ro",
+    "readonly_password": "GQQcMCsRcvKx",
+    "host": "146.186.149.69",
+    "port": 27018,
+    "aliases": {}
+}

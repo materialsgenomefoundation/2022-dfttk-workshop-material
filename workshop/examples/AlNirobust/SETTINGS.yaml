@@ -1,0 +1,3 @@
+magmom: [0, 1]
+phonon : True
+phonon_supercell_matrix : [[0, 2, 2], [2, 0, 2], [2, 2, 0]]

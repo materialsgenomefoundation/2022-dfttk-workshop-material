@@ -1,0 +1,5 @@
+use workshop-Dec15-fws
+db.createUser({user: "workshop-Dec15", pwd: "dPqYuinragNn", roles: [{role: "dbOwner", db: "workshop-Dec15-fws"}]})
+use workshop-Dec15-results
+db.createUser({user: "workshop-Dec15", pwd: "E6KhWB3pGWmU", roles: [{role: "dbOwner", db: "workshop-Dec15-results"}]})
+db.createUser({user: "workshop-Dec15-ro", pwd: "GQQcMCsRcvKx", roles: [{role: "read", db: "workshop-Dec15-results"}]})
